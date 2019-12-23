@@ -1,29 +1,14 @@
-# echarts-demo
+# YugiAsuna 整理的 echarts demo
 
-## Project setup
+### 安装
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 直接运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### 所有图表组件都可以单独提取使用，部分图标需要引入对应 json 文件请一并带走
